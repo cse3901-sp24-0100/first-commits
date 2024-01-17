@@ -1,0 +1,7 @@
+Hello, world!
+
+This is a simple text file whose content can change overtime.
+
+Try editing me in your favorite text editor and then issue some git commands.
+
+You can commit/push your own changes to the remote repo or fetch/merge (pull) changes from the remote into your local.
